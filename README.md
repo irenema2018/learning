@@ -2,6 +2,7 @@
 
 # General Programming
 [Regular Expression](https://regexr.com/)
+[How to use classes in Javascript](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
 
 # Front-end
 
