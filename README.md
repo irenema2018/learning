@@ -1,11 +1,13 @@
 # Architecture
 
+# General Programming
+[Regular Expression](https://regexr.com/)
+
 # Front-end
 
 ## HTML, CSS
 
 ## React.js
-[Regular Expression](https://regexr.com/)
 
 ## UI / UX
 [Think outside the database](https://twitter.com/steveschoger/status/997125312411570176)
