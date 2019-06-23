@@ -15,18 +15,20 @@ export class Triangle {
  
                       // big array length
     for (let i = 0; i < num; i++) {
+      
       if (i === 0) {
         this.array.push([1]);
       } else {
         let previousArr = this.array[i-1];
         let currentArr = [1];
-        currentArr.push(previousArr.map((numInArr, index) => 
+        currentArr.push(...previousArr.map((numInArr, index) => 
           index === previousArr.length-1 ? 1 : numInArr + previousArr[index+1])
         )
+        this.array.push(currentArr);
       };
-      this.array.push(currentArr);
     };
   }
+ 
 
   get lastRow() {
     return this.array[this.array.length-1];
