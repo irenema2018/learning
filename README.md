@@ -5,6 +5,8 @@
 
 [How to use classes in Javascript](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
 
+[Domain Name System](https://medium.com/@kamranahmedse/dns-in-one-picture-d7f4783db06a)
+
 # Front-end
 
 ## HTML, CSS
