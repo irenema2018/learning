@@ -21,6 +21,7 @@
 ## Ruby
 
 ### Sinatra
+[Webapps for beginners](http://webapps-for-beginners.rubymonstas.org/index.html)
 
 ## Node.js
 
