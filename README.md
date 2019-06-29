@@ -19,6 +19,7 @@
 # Back-end
 
 ## Ruby
+[map method cheatsheet](https://www.rubyguides.com/2018/10/ruby-map-method/)
 
 ### Sinatra
 [Webapps for beginners](http://webapps-for-beginners.rubymonstas.org/index.html)
