@@ -23,6 +23,8 @@
 
 [attr_accessor](https://stackoverflow.com/questions/4370960/what-is-attr-accessor-in-ruby)
 
+[Difference between '..' (double-dot) and '…' (triple-dot) in range generation?](https://stackoverflow.com/questions/9690801/difference-between-double-dot-and-triple-dot-in-range-generation)
+
 ### Sinatra
 [Webapps for beginners](http://webapps-for-beginners.rubymonstas.org/index.html)
 
