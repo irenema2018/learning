@@ -20,6 +20,7 @@
 
 ## Ruby
 [map method cheatsheet](https://www.rubyguides.com/2018/10/ruby-map-method/)
+[attr_accessor](https://stackoverflow.com/questions/4370960/what-is-attr-accessor-in-ruby)
 
 ### Sinatra
 [Webapps for beginners](http://webapps-for-beginners.rubymonstas.org/index.html)
