@@ -25,6 +25,8 @@
 
 [Difference between '..' (double-dot) and '…' (triple-dot) in range generation?](https://stackoverflow.com/questions/9690801/difference-between-double-dot-and-triple-dot-in-range-generation)
 
+[http://jeromedalbert.com/ruby-how-to-iterate-the-right-way/](http://jeromedalbert.com/ruby-how-to-iterate-the-right-way/)
+
 ### Sinatra
 [Webapps for beginners](http://webapps-for-beginners.rubymonstas.org/index.html)
 
