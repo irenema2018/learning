@@ -33,7 +33,9 @@
 ## Node.js
 
 # Security
-[https://www.troyhunt.com/heres-why-your-static-website-needs-https/](https://www.troyhunt.com/heres-why-your-static-website-needs-https/)
+[Here's Why Your Static Website Needs HTTPS](https://www.troyhunt.com/heres-why-your-static-website-needs-https/)
+
+[The difference between http and https](https://www.globalsign.com/en/blog/the-difference-between-http-and-https/)
 
 ## Public key & private key
 
