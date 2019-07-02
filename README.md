@@ -5,6 +5,8 @@
 
 [How to use classes in Javascript](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
 
+[Domain Name System](https://medium.com/@kamranahmedse/dns-in-one-picture-d7f4783db06a)
+
 # Front-end
 
 ## HTML, CSS
@@ -17,8 +19,16 @@
 # Back-end
 
 ## Ruby
+[map method cheatsheet](https://www.rubyguides.com/2018/10/ruby-map-method/)
+
+[attr_accessor](https://stackoverflow.com/questions/4370960/what-is-attr-accessor-in-ruby)
+
+[Difference between '..' (double-dot) and '…' (triple-dot) in range generation?](https://stackoverflow.com/questions/9690801/difference-between-double-dot-and-triple-dot-in-range-generation)
+
+[http://jeromedalbert.com/ruby-how-to-iterate-the-right-way/](http://jeromedalbert.com/ruby-how-to-iterate-the-right-way/)
 
 ### Sinatra
+[Webapps for beginners](http://webapps-for-beginners.rubymonstas.org/index.html)
 
 ## Node.js
 
