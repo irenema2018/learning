@@ -27,6 +27,8 @@
 
 [Ruby: How to Iterate "the Right Way"](http://jeromedalbert.com/ruby-how-to-iterate-the-right-way/)
 
+[How to use each method](https://mixandgo.com/learn/how-to-use-ruby-each)
+
 [Minitest Cheat Sheet](https://www.rubypigeon.com/posts/minitest-cheat-sheet/)
 
 ### Sinatra
