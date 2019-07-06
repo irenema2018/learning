@@ -7,6 +7,8 @@
 
 [Domain Name System](https://medium.com/@kamranahmedse/dns-in-one-picture-d7f4783db06a)
 
+[What is REST?](https://restfulapi.net/)
+
 # Front-end
 
 ## HTML, CSS
