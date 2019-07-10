@@ -48,6 +48,7 @@ O O O O O O O O
     queens = Queens.new(white: [2, 3], black: [4, 7]) 
     #                    in ruby, the above is a hash, you can also add more pairs of keys and value 
     assert !queens.attack?
+    # refute queens.attack?
   end
 
   def test_can_attack_on_same_row
@@ -80,4 +81,8 @@ O O O O O O O O
     assert queens.attack?
   end
 
+  def test_irene_create_can_attack_on_diagonal
+    queens = Queens.new(white: [2, 3], black: [5, 6])
+    assert queens.attack?
+  end
 end
