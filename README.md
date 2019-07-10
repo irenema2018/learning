@@ -33,6 +33,8 @@
 
 [Minitest Cheat Sheet](https://www.rubypigeon.com/posts/minitest-cheat-sheet/)
 
+[Hash] (https://docs.ruby-lang.org/en/2.0.0/Hash.html)
+
 ### Sinatra
 [Webapps for beginners](http://webapps-for-beginners.rubymonstas.org/index.html)
 
