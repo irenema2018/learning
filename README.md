@@ -25,6 +25,8 @@
 
 [attr_accessor](https://stackoverflow.com/questions/4370960/what-is-attr-accessor-in-ruby)
 
+[Ruby's attr_accessor, attr_reader and attr_writer](https://mixandgo.com/learn/ruby_attr_accessor_attr_reader_attr_writer)
+
 [Difference between '..' (double-dot) and '…' (triple-dot) in range generation?](https://stackoverflow.com/questions/9690801/difference-between-double-dot-and-triple-dot-in-range-generation)
 
 [Ruby: How to Iterate "the Right Way"](http://jeromedalbert.com/ruby-how-to-iterate-the-right-way/)
