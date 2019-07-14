@@ -3,8 +3,7 @@ class Scrabble
         if str == nil
             str = ''
         end
-        @arr = str.upcase.split("")
-    
+        @str = str.upcase
     end
 
     def self.score(str)
@@ -46,14 +45,14 @@ class Scrabble
      
         score = 0
         # use each loop through the array => @arr
-        @arr.each {|char| 
-            score = score + (value_pair.has_key?(char)? value_pair[char] : 0) }
+        # @arr.each {|char| 
+        #     score = score + (value_pair.has_key?(char)? value_pair[char] : 0) }
   
         # the below code will also work when
         # in initialize. @str = str.upcase
         # use each loop through the hash => value_pair
-        # value_pair.each { |key, value|
-        #     score = score + (@str.scan(key).count * value)}
+        value_pair.each { |key, value|
+            score = score + (@str.scan(key).count * value)}
 
         return score
     end

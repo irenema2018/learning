@@ -1,4 +1,6 @@
 class Queens
+    attr_reader :white, :black
+
     def initialize(pos = nil)
 
         if pos != nil
@@ -14,14 +16,14 @@ class Queens
         end
     end
 
-    # getter
-    def white
-        @white
-    end
+    # getter / use attr_reader
+    # def white
+    #     @white
+    # end
 
-    def black
-        @black
-    end
+    # def black
+    #     @black
+    # end
 
     def to_s
         # create a checkboard which is a hash
