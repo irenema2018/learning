@@ -16,7 +16,7 @@ class ResistorColorDuo
                     }
 
                 
-        colors.map { |color| color_value[color].to_s}
+        colors.map { |color| color_value[color]}
               .join
               .to_i
         
