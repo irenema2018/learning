@@ -37,7 +37,7 @@
 
 [Hash](https://docs.ruby-lang.org/en/2.0.0/Hash.html)
 
-[Operator Overloading](http://nicholasjohnson.com/ruby/ruby-course/exercises/operator-overloading/)
+[Operator Overloading - Define and Refine Operators](http://nicholasjohnson.com/ruby/ruby-course/exercises/operator-overloading/)
 
 ### Sinatra
 [Webapps for beginners](http://webapps-for-beginners.rubymonstas.org/index.html)
