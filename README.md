@@ -39,6 +39,8 @@
 
 [Operator Overloading - Define and Refine Operators](http://nicholasjohnson.com/ruby/ruby-course/exercises/operator-overloading/)
 
+[Ruby Constants](https://www.rubyguides.com/2017/07/ruby-constants/)
+
 ### Sinatra
 [Webapps for beginners](http://webapps-for-beginners.rubymonstas.org/index.html)
 
