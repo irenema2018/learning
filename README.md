@@ -41,6 +41,8 @@
 
 [Ruby Constants](https://www.rubyguides.com/2017/07/ruby-constants/)
 
+[Ruby Hash Sort_by & Sort](https://medium.com/@florenceliang/some-notes-about-using-hash-sort-by-in-ruby-f4b3a700fc33)
+
 ### Sinatra
 [Webapps for beginners](http://webapps-for-beginners.rubymonstas.org/index.html)
 
