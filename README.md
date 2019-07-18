@@ -35,13 +35,15 @@
 
 [Minitest Cheat Sheet](https://www.rubypigeon.com/posts/minitest-cheat-sheet/)
 
-[Hash](https://docs.ruby-lang.org/en/2.0.0/Hash.html)
-
 [Operator Overloading - Define and Refine Operators](http://nicholasjohnson.com/ruby/ruby-course/exercises/operator-overloading/)
 
 [Ruby Constants](https://www.rubyguides.com/2017/07/ruby-constants/)
 
+[Hash](https://docs.ruby-lang.org/en/2.0.0/Hash.html)
+
 [Ruby Hash Sort_by & Sort](https://medium.com/@florenceliang/some-notes-about-using-hash-sort-by-in-ruby-f4b3a700fc33)
+
+[Hash Iteration](https://teamtreehouse.com/library/hash-iteration)
 
 ### Sinatra
 [Webapps for beginners](http://webapps-for-beginners.rubymonstas.org/index.html)
