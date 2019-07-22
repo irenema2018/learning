@@ -45,6 +45,8 @@
 
 [Hash Iteration](https://teamtreehouse.com/library/hash-iteration)
 
+[Exclamation Marks Used in Ruby Methods](https://stackoverflow.com/questions/612189/why-are-exclamation-marks-used-in-ruby-methods)
+
 ### Sinatra
 [Webapps for beginners](http://webapps-for-beginners.rubymonstas.org/index.html)
 
