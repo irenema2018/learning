@@ -14,6 +14,7 @@
 ## HTML, CSS
 
 ## React.js
+[Getting Started with React (2019 edition)](https://scotch.io/starters/react/getting-started-with-react-2019-edition)
 
 ## UI / UX
 [Think outside the database](https://twitter.com/steveschoger/status/997125312411570176)
