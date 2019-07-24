@@ -53,6 +53,9 @@
 
 ## Node.js
 
+# DevOps
+[What Is a Deployment Pipeline and How It Helps Software Development Teams](https://medium.com/the-making-of-appear-in/what-is-a-deployment-pipeline-and-how-it-helps-software-development-teams-6cb29917ceea)
+
 # Security
 [Here's Why Your Static Website Needs HTTPS](https://www.troyhunt.com/heres-why-your-static-website-needs-https/)
 
