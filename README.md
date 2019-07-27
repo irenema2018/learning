@@ -14,6 +14,7 @@
 ## HTML, CSS
 
 ## React.js
+[Getting Started with React (2019 edition)](https://scotch.io/starters/react/getting-started-with-react-2019-edition)
 
 ## UI / UX
 [Think outside the database](https://twitter.com/steveschoger/status/997125312411570176)
@@ -51,6 +52,9 @@
 [Webapps for beginners](http://webapps-for-beginners.rubymonstas.org/index.html)
 
 ## Node.js
+
+# DevOps
+[What Is a Deployment Pipeline and How It Helps Software Development Teams](https://medium.com/the-making-of-appear-in/what-is-a-deployment-pipeline-and-how-it-helps-software-development-teams-6cb29917ceea)
 
 # Security
 [Here's Why Your Static Website Needs HTTPS](https://www.troyhunt.com/heres-why-your-static-website-needs-https/)
