@@ -58,8 +58,6 @@ app.get('/', (req, res) => {
     res.redirect('/home');
   });
 
-// app.listen(port, () => console.log(`My Blog App listening on port ${port}!`))
-
 // sets up a connection with the SQLite database and tells the database to store the data in ./db.sqlite
 const database = new Sequelize({
     dialect: 'sqlite',
