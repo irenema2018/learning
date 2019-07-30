@@ -16,6 +16,8 @@
 ## React.js
 [Getting Started with React (2019 edition)](https://scotch.io/starters/react/getting-started-with-react-2019-edition)
 
+[Functional vs Class-Components in React](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108)
+
 ## UI / UX
 [Think outside the database](https://twitter.com/steveschoger/status/997125312411570176)
 
